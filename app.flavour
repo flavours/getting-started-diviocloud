@@ -1,0 +1,14 @@
+meta:
+  name: my-django-project
+  version: 0.1
+version: 0.1
+
+addons:
+  addon/aldryn-addons:
+    manager: fam-diviocloud-addon
+  addon/aldryn-common:
+    manager: fam-diviocloud-addon
+  addon/aldryn-django:
+    manager: fam-diviocloud-addon
+  addon/aldryn-sso:
+    manager: fam-diviocloud-addon
