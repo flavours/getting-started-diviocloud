@@ -1,1 +1,1 @@
-# Getting Started with divio cloud addons and flavour
+# Getting Started with aldryn and flavour
