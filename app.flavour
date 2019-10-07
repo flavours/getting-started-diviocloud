@@ -1,7 +1,7 @@
 meta:
   name: my-django-project
   version: 0.1
-version: 0.1
+spec: 0.1
 
 addons:
   addon/aldryn-addons:1.0.4:
